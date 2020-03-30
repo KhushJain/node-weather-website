@@ -1,6 +1,6 @@
 # node-weather-website
 #### The website displays the weather details of the given location. It uses data from mapbox.com and darksky.net
-#### I have deployed the app. You can use it by clicking on the following link: https://khush-weather-app.herokuapp.com/
+#### The app is deployed. You can use it by clicking on the following link: https://khush-weather-app.herokuapp.com/
 
 
 
